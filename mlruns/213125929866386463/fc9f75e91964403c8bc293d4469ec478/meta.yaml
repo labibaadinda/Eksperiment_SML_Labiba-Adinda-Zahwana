@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Asus/Documents/Dicoding/membangun-sistem-ml/SMSML_Labiba-Adinda-Zahwana/mlruns/213125929866386463/fc9f75e91964403c8bc293d4469ec478/artifacts
+end_time: 1750087510138
+entry_point_name: ''
+experiment_id: '213125929866386463'
+lifecycle_stage: active
+run_id: fc9f75e91964403c8bc293d4469ec478
+run_name: kindly-finch-156
+run_uuid: fc9f75e91964403c8bc293d4469ec478
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750087510006
+status: 3
+tags: []
+user_id: Asus

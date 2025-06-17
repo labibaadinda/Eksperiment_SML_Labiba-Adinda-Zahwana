@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Asus/Documents/Dicoding/membangun-sistem-ml/SMSML_Labiba-Adinda-Zahwana/mlruns/213125929866386463/66e91b3957f349efb6db647b1fb31354/artifacts
+end_time: 1750087628270
+entry_point_name: ''
+experiment_id: '213125929866386463'
+lifecycle_stage: active
+run_id: 66e91b3957f349efb6db647b1fb31354
+run_name: melodic-chimp-439
+run_uuid: 66e91b3957f349efb6db647b1fb31354
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750087628048
+status: 3
+tags: []
+user_id: Asus

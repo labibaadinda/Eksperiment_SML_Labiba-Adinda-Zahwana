@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Asus/Documents/Dicoding/membangun-sistem-ml/SMSML_Labiba-Adinda-Zahwana/mlruns/213125929866386463/ea51971648454bc88ebd87cf4b745f25/artifacts
+end_time: 1750087500594
+entry_point_name: ''
+experiment_id: '213125929866386463'
+lifecycle_stage: active
+run_id: ea51971648454bc88ebd87cf4b745f25
+run_name: mercurial-shark-977
+run_uuid: ea51971648454bc88ebd87cf4b745f25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750087500353
+status: 3
+tags: []
+user_id: Asus

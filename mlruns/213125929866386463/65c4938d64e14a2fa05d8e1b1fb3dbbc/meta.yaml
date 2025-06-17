@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Asus/Documents/Dicoding/membangun-sistem-ml/SMSML_Labiba-Adinda-Zahwana/mlruns/213125929866386463/65c4938d64e14a2fa05d8e1b1fb3dbbc/artifacts
+end_time: 1750087600440
+entry_point_name: ''
+experiment_id: '213125929866386463'
+lifecycle_stage: active
+run_id: 65c4938d64e14a2fa05d8e1b1fb3dbbc
+run_name: thundering-shoat-537
+run_uuid: 65c4938d64e14a2fa05d8e1b1fb3dbbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750087600074
+status: 3
+tags: []
+user_id: Asus

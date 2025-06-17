@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Asus/Documents/Dicoding/membangun-sistem-ml/SMSML_Labiba-Adinda-Zahwana/mlruns/213125929866386463/260806b3a84d42548c7c3dda426b000a/artifacts
+end_time: 1750087630003
+entry_point_name: ''
+experiment_id: '213125929866386463'
+lifecycle_stage: active
+run_id: 260806b3a84d42548c7c3dda426b000a
+run_name: burly-boar-350
+run_uuid: 260806b3a84d42548c7c3dda426b000a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750087629787
+status: 3
+tags: []
+user_id: Asus

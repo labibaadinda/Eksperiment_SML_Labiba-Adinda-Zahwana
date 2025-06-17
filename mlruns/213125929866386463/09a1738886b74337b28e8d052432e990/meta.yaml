@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Asus/Documents/Dicoding/membangun-sistem-ml/SMSML_Labiba-Adinda-Zahwana/mlruns/213125929866386463/09a1738886b74337b28e8d052432e990/artifacts
+end_time: 1750087531846
+entry_point_name: ''
+experiment_id: '213125929866386463'
+lifecycle_stage: active
+run_id: 09a1738886b74337b28e8d052432e990
+run_name: redolent-wolf-320
+run_uuid: 09a1738886b74337b28e8d052432e990
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750087531349
+status: 3
+tags: []
+user_id: Asus

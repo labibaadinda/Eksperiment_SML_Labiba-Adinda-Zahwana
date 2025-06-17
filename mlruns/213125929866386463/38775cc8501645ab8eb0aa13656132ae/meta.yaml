@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Asus/Documents/Dicoding/membangun-sistem-ml/SMSML_Labiba-Adinda-Zahwana/mlruns/213125929866386463/38775cc8501645ab8eb0aa13656132ae/artifacts
+end_time: 1750087520924
+entry_point_name: ''
+experiment_id: '213125929866386463'
+lifecycle_stage: active
+run_id: 38775cc8501645ab8eb0aa13656132ae
+run_name: rogue-dolphin-675
+run_uuid: 38775cc8501645ab8eb0aa13656132ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750087520324
+status: 3
+tags: []
+user_id: Asus

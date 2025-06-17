@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Asus/Documents/Dicoding/membangun-sistem-ml/SMSML_Labiba-Adinda-Zahwana/mlruns/213125929866386463/3fb293d1869742f6897f21b8ac128fbf/artifacts
+end_time: 1750087641895
+entry_point_name: ''
+experiment_id: '213125929866386463'
+lifecycle_stage: active
+run_id: 3fb293d1869742f6897f21b8ac128fbf
+run_name: honorable-tern-823
+run_uuid: 3fb293d1869742f6897f21b8ac128fbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750087641618
+status: 3
+tags: []
+user_id: Asus

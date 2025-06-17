@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Asus/Documents/Dicoding/membangun-sistem-ml/SMSML_Labiba-Adinda-Zahwana/mlruns/213125929866386463/41082889a68f4781b110db4bbee43a2c/artifacts
+end_time: 1750087644617
+entry_point_name: ''
+experiment_id: '213125929866386463'
+lifecycle_stage: active
+run_id: 41082889a68f4781b110db4bbee43a2c
+run_name: debonair-fly-927
+run_uuid: 41082889a68f4781b110db4bbee43a2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750087644356
+status: 3
+tags: []
+user_id: Asus

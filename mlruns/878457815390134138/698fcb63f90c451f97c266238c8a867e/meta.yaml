@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Asus/Documents/Dicoding/membangun-sistem-ml/SMSML_Labiba-Adinda-Zahwana/mlruns/878457815390134138/698fcb63f90c451f97c266238c8a867e/artifacts
+end_time: 1750087366348
+entry_point_name: ''
+experiment_id: '878457815390134138'
+lifecycle_stage: active
+run_id: 698fcb63f90c451f97c266238c8a867e
+run_name: amusing-lark-337
+run_uuid: 698fcb63f90c451f97c266238c8a867e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750087365950
+status: 3
+tags: []
+user_id: Asus

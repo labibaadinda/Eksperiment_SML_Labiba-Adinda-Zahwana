@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Asus/Documents/Dicoding/membangun-sistem-ml/SMSML_Labiba-Adinda-Zahwana/mlruns/213125929866386463/46cf69d1b1bc4e69bf1c6cfbdf063bdb/artifacts
+end_time: 1750087638185
+entry_point_name: ''
+experiment_id: '213125929866386463'
+lifecycle_stage: active
+run_id: 46cf69d1b1bc4e69bf1c6cfbdf063bdb
+run_name: big-pig-308
+run_uuid: 46cf69d1b1bc4e69bf1c6cfbdf063bdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750087637930
+status: 3
+tags: []
+user_id: Asus

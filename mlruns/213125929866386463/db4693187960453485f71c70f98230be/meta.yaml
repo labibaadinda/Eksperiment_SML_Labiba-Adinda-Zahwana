@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Asus/Documents/Dicoding/membangun-sistem-ml/SMSML_Labiba-Adinda-Zahwana/mlruns/213125929866386463/db4693187960453485f71c70f98230be/artifacts
+end_time: 1750087501071
+entry_point_name: ''
+experiment_id: '213125929866386463'
+lifecycle_stage: active
+run_id: db4693187960453485f71c70f98230be
+run_name: handsome-lynx-967
+run_uuid: db4693187960453485f71c70f98230be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750087500902
+status: 3
+tags: []
+user_id: Asus

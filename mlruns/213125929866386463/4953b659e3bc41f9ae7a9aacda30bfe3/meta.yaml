@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Asus/Documents/Dicoding/membangun-sistem-ml/SMSML_Labiba-Adinda-Zahwana/mlruns/213125929866386463/4953b659e3bc41f9ae7a9aacda30bfe3/artifacts
+end_time: 1750087646916
+entry_point_name: ''
+experiment_id: '213125929866386463'
+lifecycle_stage: active
+run_id: 4953b659e3bc41f9ae7a9aacda30bfe3
+run_name: rare-dolphin-78
+run_uuid: 4953b659e3bc41f9ae7a9aacda30bfe3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750087646600
+status: 3
+tags: []
+user_id: Asus

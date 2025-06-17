@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Asus/Documents/Dicoding/membangun-sistem-ml/SMSML_Labiba-Adinda-Zahwana/mlruns/213125929866386463/c9389d7281134de39b47fbd8899240ac/artifacts
+end_time: 1750087496544
+entry_point_name: ''
+experiment_id: '213125929866386463'
+lifecycle_stage: active
+run_id: c9389d7281134de39b47fbd8899240ac
+run_name: angry-croc-60
+run_uuid: c9389d7281134de39b47fbd8899240ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750087496410
+status: 3
+tags: []
+user_id: Asus

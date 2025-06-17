@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Asus/Documents/Dicoding/membangun-sistem-ml/SMSML_Labiba-Adinda-Zahwana/mlruns/213125929866386463/22db0e3e46d449409cb693043b8ff296/artifacts
+end_time: 1750087622308
+entry_point_name: ''
+experiment_id: '213125929866386463'
+lifecycle_stage: active
+run_id: 22db0e3e46d449409cb693043b8ff296
+run_name: nimble-kite-843
+run_uuid: 22db0e3e46d449409cb693043b8ff296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750087621733
+status: 3
+tags: []
+user_id: Asus

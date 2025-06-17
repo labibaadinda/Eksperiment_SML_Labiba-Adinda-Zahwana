@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Asus/Documents/Dicoding/membangun-sistem-ml/SMSML_Labiba-Adinda-Zahwana/mlruns/213125929866386463/b2d3a39895ed4ca594d524116bf1f912/artifacts
+end_time: 1750087634419
+entry_point_name: ''
+experiment_id: '213125929866386463'
+lifecycle_stage: active
+run_id: b2d3a39895ed4ca594d524116bf1f912
+run_name: painted-mare-508
+run_uuid: b2d3a39895ed4ca594d524116bf1f912
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750087634103
+status: 3
+tags: []
+user_id: Asus

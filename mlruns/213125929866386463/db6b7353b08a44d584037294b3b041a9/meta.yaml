@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Asus/Documents/Dicoding/membangun-sistem-ml/SMSML_Labiba-Adinda-Zahwana/mlruns/213125929866386463/db6b7353b08a44d584037294b3b041a9/artifacts
+end_time: 1750087639305
+entry_point_name: ''
+experiment_id: '213125929866386463'
+lifecycle_stage: active
+run_id: db6b7353b08a44d584037294b3b041a9
+run_name: valuable-sheep-572
+run_uuid: db6b7353b08a44d584037294b3b041a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750087639007
+status: 3
+tags: []
+user_id: Asus

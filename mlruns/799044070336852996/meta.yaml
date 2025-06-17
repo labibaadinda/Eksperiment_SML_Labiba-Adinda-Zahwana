@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/Asus/Documents/Dicoding/membangun-sistem-ml/SMSML_Labiba-Adinda-Zahwana/mlruns/799044070336852996
+creation_time: 1750087926459
+experiment_id: '799044070336852996'
+last_update_time: 1750087926459
+lifecycle_stage: active
+name: XGBoost_RandomizedSearchCV_Experiment

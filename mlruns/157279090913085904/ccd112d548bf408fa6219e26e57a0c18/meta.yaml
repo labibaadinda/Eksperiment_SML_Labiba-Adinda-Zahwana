@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Asus/Documents/Dicoding/membangun-sistem-ml/SMSML_Labiba-Adinda-Zahwana/mlruns/157279090913085904/ccd112d548bf408fa6219e26e57a0c18/artifacts
+end_time: 1750088435856
+entry_point_name: ''
+experiment_id: '157279090913085904'
+lifecycle_stage: active
+run_id: ccd112d548bf408fa6219e26e57a0c18
+run_name: nimble-gnu-867
+run_uuid: ccd112d548bf408fa6219e26e57a0c18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750088434246
+status: 3
+tags: []
+user_id: Asus

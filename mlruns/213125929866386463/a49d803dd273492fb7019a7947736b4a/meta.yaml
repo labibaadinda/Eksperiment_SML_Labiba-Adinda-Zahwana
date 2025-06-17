@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Asus/Documents/Dicoding/membangun-sistem-ml/SMSML_Labiba-Adinda-Zahwana/mlruns/213125929866386463/a49d803dd273492fb7019a7947736b4a/artifacts
+end_time: 1750087628687
+entry_point_name: ''
+experiment_id: '213125929866386463'
+lifecycle_stage: active
+run_id: a49d803dd273492fb7019a7947736b4a
+run_name: indecisive-bird-572
+run_uuid: a49d803dd273492fb7019a7947736b4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750087628280
+status: 3
+tags: []
+user_id: Asus

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Asus/Documents/Dicoding/membangun-sistem-ml/SMSML_Labiba-Adinda-Zahwana/mlruns/213125929866386463/7720dace5a5b439691a509ca1fef1d7f/artifacts
+end_time: 1750087632190
+entry_point_name: ''
+experiment_id: '213125929866386463'
+lifecycle_stage: active
+run_id: 7720dace5a5b439691a509ca1fef1d7f
+run_name: capable-tern-947
+run_uuid: 7720dace5a5b439691a509ca1fef1d7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750087631866
+status: 3
+tags: []
+user_id: Asus

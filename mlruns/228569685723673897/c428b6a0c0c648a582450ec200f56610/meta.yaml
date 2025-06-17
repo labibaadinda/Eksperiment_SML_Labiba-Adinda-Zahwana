@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Asus/Documents/Dicoding/membangun-sistem-ml/SMSML_Labiba-Adinda-Zahwana/mlruns/228569685723673897/c428b6a0c0c648a582450ec200f56610/artifacts
+end_time: 1750090096977
+entry_point_name: ''
+experiment_id: '228569685723673897'
+lifecycle_stage: active
+run_id: c428b6a0c0c648a582450ec200f56610
+run_name: intrigued-cow-960
+run_uuid: c428b6a0c0c648a582450ec200f56610
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750090051020
+status: 3
+tags: []
+user_id: Asus

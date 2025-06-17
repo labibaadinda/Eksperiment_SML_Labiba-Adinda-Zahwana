@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Asus/Documents/Dicoding/membangun-sistem-ml/SMSML_Labiba-Adinda-Zahwana/mlruns/213125929866386463/31ab0c5ded684908802553caf78a2a29/artifacts
+end_time: 1750087591353
+entry_point_name: ''
+experiment_id: '213125929866386463'
+lifecycle_stage: active
+run_id: 31ab0c5ded684908802553caf78a2a29
+run_name: abundant-perch-66
+run_uuid: 31ab0c5ded684908802553caf78a2a29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750087590645
+status: 3
+tags: []
+user_id: Asus

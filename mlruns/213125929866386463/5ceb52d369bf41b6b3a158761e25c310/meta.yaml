@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Asus/Documents/Dicoding/membangun-sistem-ml/SMSML_Labiba-Adinda-Zahwana/mlruns/213125929866386463/5ceb52d369bf41b6b3a158761e25c310/artifacts
+end_time: 1750087564214
+entry_point_name: ''
+experiment_id: '213125929866386463'
+lifecycle_stage: active
+run_id: 5ceb52d369bf41b6b3a158761e25c310
+run_name: wise-conch-802
+run_uuid: 5ceb52d369bf41b6b3a158761e25c310
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750087562945
+status: 3
+tags: []
+user_id: Asus

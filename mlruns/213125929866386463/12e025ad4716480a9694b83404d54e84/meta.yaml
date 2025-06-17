@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Asus/Documents/Dicoding/membangun-sistem-ml/SMSML_Labiba-Adinda-Zahwana/mlruns/213125929866386463/12e025ad4716480a9694b83404d54e84/artifacts
+end_time: 1750087513971
+entry_point_name: ''
+experiment_id: '213125929866386463'
+lifecycle_stage: active
+run_id: 12e025ad4716480a9694b83404d54e84
+run_name: salty-dove-359
+run_uuid: 12e025ad4716480a9694b83404d54e84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750087513782
+status: 3
+tags: []
+user_id: Asus

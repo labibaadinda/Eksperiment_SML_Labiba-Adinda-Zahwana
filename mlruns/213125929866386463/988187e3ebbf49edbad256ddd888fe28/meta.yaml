@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Asus/Documents/Dicoding/membangun-sistem-ml/SMSML_Labiba-Adinda-Zahwana/mlruns/213125929866386463/988187e3ebbf49edbad256ddd888fe28/artifacts
+end_time: 1750087608779
+entry_point_name: ''
+experiment_id: '213125929866386463'
+lifecycle_stage: active
+run_id: 988187e3ebbf49edbad256ddd888fe28
+run_name: whimsical-gull-520
+run_uuid: 988187e3ebbf49edbad256ddd888fe28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750087608574
+status: 3
+tags: []
+user_id: Asus

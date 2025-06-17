@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Asus/Documents/Dicoding/membangun-sistem-ml/SMSML_Labiba-Adinda-Zahwana/mlruns/213125929866386463/4263cd94fd974fbbaf42a602c44fc38c/artifacts
+end_time: 1750087632790
+entry_point_name: ''
+experiment_id: '213125929866386463'
+lifecycle_stage: active
+run_id: 4263cd94fd974fbbaf42a602c44fc38c
+run_name: rare-snipe-242
+run_uuid: 4263cd94fd974fbbaf42a602c44fc38c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750087632502
+status: 3
+tags: []
+user_id: Asus

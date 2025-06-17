@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Asus/Documents/Dicoding/membangun-sistem-ml/SMSML_Labiba-Adinda-Zahwana/mlruns/213125929866386463/e0f7b70428bc4e36a97038aecddff498/artifacts
+end_time: 1750087629152
+entry_point_name: ''
+experiment_id: '213125929866386463'
+lifecycle_stage: active
+run_id: e0f7b70428bc4e36a97038aecddff498
+run_name: fun-elk-779
+run_uuid: e0f7b70428bc4e36a97038aecddff498
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750087628929
+status: 3
+tags: []
+user_id: Asus

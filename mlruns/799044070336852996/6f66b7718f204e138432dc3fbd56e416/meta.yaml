@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Asus/Documents/Dicoding/membangun-sistem-ml/SMSML_Labiba-Adinda-Zahwana/mlruns/799044070336852996/6f66b7718f204e138432dc3fbd56e416/artifacts
+end_time: 1750087933019
+entry_point_name: ''
+experiment_id: '799044070336852996'
+lifecycle_stage: active
+run_id: 6f66b7718f204e138432dc3fbd56e416
+run_name: monumental-crow-989
+run_uuid: 6f66b7718f204e138432dc3fbd56e416
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750087927617
+status: 3
+tags: []
+user_id: Asus

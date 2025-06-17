@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Asus/Documents/Dicoding/membangun-sistem-ml/SMSML_Labiba-Adinda-Zahwana/mlruns/213125929866386463/22488bdf426f4aefb47cd2ca95604f69/artifacts
+end_time: 1750087507562
+entry_point_name: ''
+experiment_id: '213125929866386463'
+lifecycle_stage: active
+run_id: 22488bdf426f4aefb47cd2ca95604f69
+run_name: wise-kite-1000
+run_uuid: 22488bdf426f4aefb47cd2ca95604f69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750087507348
+status: 3
+tags: []
+user_id: Asus

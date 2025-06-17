@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Asus/Documents/Dicoding/membangun-sistem-ml/SMSML_Labiba-Adinda-Zahwana/mlruns/213125929866386463/d449672485e54a42afeffc7e88f3da6f/artifacts
+end_time: 1750087520294
+entry_point_name: ''
+experiment_id: '213125929866386463'
+lifecycle_stage: active
+run_id: d449672485e54a42afeffc7e88f3da6f
+run_name: persistent-skunk-915
+run_uuid: d449672485e54a42afeffc7e88f3da6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750087519762
+status: 3
+tags: []
+user_id: Asus
