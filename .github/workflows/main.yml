@@ -23,16 +23,8 @@ jobs:
         run: |
           pip install --upgrade pip
           pip install -r requirements.txt
-          pip install mlflow
 
-      - name: Run Preprocessing with MLflow
+      - name: Run Preprocessing
+        working-directory: ./preprocessing
         run: |
-          mlflow run . -e main
-
-      - name: Run Modelling with MLflow
-        run: |
-          mlflow run . -e modelling
-
-      - name: Run Tuning with MLflow
-        run: |
-          mlflow run . -e tuning
+          python preprocessing/automate_Labiba-Adinda-Zahwana.py
