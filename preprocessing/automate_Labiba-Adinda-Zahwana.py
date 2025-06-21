@@ -12,13 +12,8 @@ print(df.dtypes)  # Data types of each column
 print(df.isnull().sum())  # Checking for missing values
 print(df.duplicated().sum())  # Checking for duplicates
 
-# Step 3: Encoding Categorical Data (Optional if you need encoding)
-# For categorical variables, if necessary, convert them to numerical (e.g., using label encoding or one-hot encoding)
 
-# Example for One-Hot Encoding:
-# df = pd.get_dummies(df, columns=['Gender', 'BMI Category', 'Health Status'])
-
-# Step 4: Exploratory Data Analysis
+# Step 3: Exploratory Data Analysis
 # Example: Gender Analysis
 plt.figure(figsize=(8, 6))
 sns.countplot(x='Gender', palette='pastel', data=df)
@@ -31,7 +26,7 @@ sns.countplot(x='BMI Category', palette='pastel', data=df)
 plt.title('Distribution of BMI Category')
 plt.show()
 
-# Step 5: NaN means have no disease
+# Step 4: NaN means have no disease
 # Replace NaN values dengan 'Healthy' di kolom 'Sleep Disorder'
 df['Sleep Disorder'] = df['Sleep Disorder'].replace(np.nan, 'Healthy')
 

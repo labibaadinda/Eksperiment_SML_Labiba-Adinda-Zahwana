@@ -1,0 +1,20 @@
+name: eksperimen-sml-labiba
+
+entry_points:
+  main:
+    parameters:
+      data_path: {type: str, default: "data/data.csv"}
+    command: >
+      python preprocessing/automate_Labiba-Adinda-Zahwana.py --data_path {data_path}
+
+  modelling:
+    parameters:
+      input_path: {type: str, default: "preprocessed_data.csv"}
+    command: >
+      python membangun_model/modelling.py --input_path {input_path}
+
+  tuning:
+    parameters:
+      model_path: {type: str, default: "model.pkl"}
+    command: >
+      python membangun_model/modelling_tuning.py --model_path {model_path}
