@@ -27,4 +27,4 @@ jobs:
       - name: Run Preprocessing
         working-directory: ./preprocessing
         run: |
-          python preprocessing/automate_Labiba-Adinda-Zahwana.py
+          python automate_Labiba-Adinda-Zahwana.py
