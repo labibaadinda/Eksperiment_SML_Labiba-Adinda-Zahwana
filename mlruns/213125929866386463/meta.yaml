@@ -1,6 +1,0 @@
-artifact_location: file:///c:/Users/Asus/Documents/Dicoding/membangun-sistem-ml/SMSML_Labiba-Adinda-Zahwana/mlruns/213125929866386463
-creation_time: 1750087493163
-experiment_id: '213125929866386463'
-last_update_time: 1750087493163
-lifecycle_stage: active
-name: XGBoost_Model_Tuning_Experiment

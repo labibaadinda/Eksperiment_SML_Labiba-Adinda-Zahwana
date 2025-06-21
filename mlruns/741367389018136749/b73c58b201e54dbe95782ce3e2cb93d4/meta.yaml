@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/741367389018136749/b73c58b201e54dbe95782ce3e2cb93d4/artifacts
+end_time: 1750480418421
+entry_point_name: ''
+experiment_id: '741367389018136749'
+lifecycle_stage: active
+run_id: b73c58b201e54dbe95782ce3e2cb93d4
+run_name: spiffy-lamb-211
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750480412084
+status: 4
+tags: []
+user_id: Asus

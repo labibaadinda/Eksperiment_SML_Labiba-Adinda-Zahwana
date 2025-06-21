@@ -1,6 +1,0 @@
-artifact_location: file:///c:/Users/Asus/Documents/Dicoding/membangun-sistem-ml/SMSML_Labiba-Adinda-Zahwana/mlruns/865264696488577006
-creation_time: 1750088231008
-experiment_id: '865264696488577006'
-last_update_time: 1750088231008
-lifecycle_stage: active
-name: sleep_disorder_prediction_optuna

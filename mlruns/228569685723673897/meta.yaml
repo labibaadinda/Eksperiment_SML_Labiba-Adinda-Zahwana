@@ -1,6 +1,0 @@
-artifact_location: file:///c:/Users/Asus/Documents/Dicoding/membangun-sistem-ml/SMSML_Labiba-Adinda-Zahwana/mlruns/228569685723673897
-creation_time: 1750090049968
-experiment_id: '228569685723673897'
-last_update_time: 1750090049968
-lifecycle_stage: active
-name: sleep_disorder_prediction_gridsearch

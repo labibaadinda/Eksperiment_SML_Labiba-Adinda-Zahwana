@@ -52,13 +52,17 @@ with mlflow.start_run():
     mlflow.log_metric("precision", prec)
     mlflow.log_metric("recall", rec)
     mlflow.log_metric("f1_score", f1)
-    
-    # Log the model using MLflow's XGBoost integration
-    mlflow.xgboost.log_model(model, "model")
-    # Optionally, save and log model manually using joblib if necessary
-    joblib.dump(model, "xgboost_model.joblib")
-    mlflow.log_artifact("xgboost_model.joblib")  # Log the model artifact
 
+    # ✅ Log ke Model Registry
+    mlflow.xgboost.log_model(
+        model,
+        artifact_path="model",
+        registered_model_name="ModelSML"  # <- Nama model di registry
+    )
+
+    # Opsional: juga simpan model secara manual
+    joblib.dump(model, "xgboost_model.joblib")
+    mlflow.log_artifact("xgboost_model.joblib")
     # Print metrics to console
     print(f"Model Accuracy: {acc:.4f}")
     print(f"Precision: {prec:.4f}")
