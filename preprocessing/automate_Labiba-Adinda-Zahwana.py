@@ -43,8 +43,8 @@ def preprocess_sleep_data(df):
     return df
 
 # if __name__ == "__main__":
-#     df = pd.read_csv('sleep-health_life-style.csv')
+#     df = pd.read_csv('../sleep-health_life-style_raw.csv')
 #     df = preprocess_sleep_data(df)
 #     print(df.head())
 
-#     df.to_csv('sleep-health_life-style_preprocessed.csv', index=False)
+#     df.to_csv('sleep-health_life-style_preprocessing.csv', index=False)
