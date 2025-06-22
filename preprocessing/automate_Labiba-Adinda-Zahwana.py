@@ -43,35 +43,3 @@ def preprocess_sleep_data(df):
         df[col] = le.fit_transform(df[col])
 
     return df
-
-def plot_eda(df):
-    """
-    Menampilkan visualisasi EDA dasar dari dataset.
-    """
-    # Gender Distribution
-    plt.figure(figsize=(8, 6))
-    sns.countplot(x='Gender', palette='pastel', data=df)
-    plt.title('Distribution of Gender')
-    plt.show()
-
-    # BMI Category Distribution
-    plt.figure(figsize=(8, 6))
-    sns.countplot(x='BMI Category', palette='pastel', data=df)
-    plt.title('Distribution of BMI Category')
-    plt.show()
-
-    # Correlation Matrix
-    corr_matrix = df.select_dtypes(include=[np.number]).corr().round(2)
-    plt.figure(figsize=(15, 10))
-    sns.heatmap(corr_matrix, annot=True, cmap='coolwarm')
-    plt.title('Correlation Matrix')
-    plt.show()
-
-    # Distributions of Numerical Columns
-    plt.figure(figsize=(15, 18))
-    for i, col in enumerate(['Age', 'Sleep Duration', 'Heart Rate']):
-        plt.subplot(3, 1, i + 1)
-        sns.histplot(df[col], kde=False, color='pink')
-        plt.title(f'Distribution of {col}')
-    plt.tight_layout()
-    plt.show()
