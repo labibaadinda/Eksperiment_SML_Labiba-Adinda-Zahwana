@@ -2,8 +2,6 @@ import pandas as pd
 import numpy as np
 from sklearn.preprocessing import LabelEncoder
 
-import seaborn as sns
-import matplotlib.pyplot as plt
 
 def preprocess_sleep_data(df):
     """
