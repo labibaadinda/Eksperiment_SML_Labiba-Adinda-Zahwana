@@ -42,9 +42,11 @@ def preprocess_sleep_data(df):
 
     return df
 
+import os
+
 if __name__ == "__main__":
-    input_file = os.path.join("..", "sleep-health_life-style_raw.csv")
-    output_file = os.path.join("..", "sleep-health_life-style_preprocessing.csv")
+    input_file = os.path.join("..", "sleep-health_life-style_raw.csv")  # file input di root project
+    output_file = os.path.join(".", "sleep-health_life-style_preprocessing.csv")  # simpan di dalam folder 'preprocessing'
 
     print(f"Input file: {input_file}")
     print(f"Output file: {output_file}")
@@ -54,4 +56,3 @@ if __name__ == "__main__":
     df.to_csv(output_file, index=False)
 
     print("Preprocessing complete.")
-    print(f"Preprocessed data saved to: {output_file}")
