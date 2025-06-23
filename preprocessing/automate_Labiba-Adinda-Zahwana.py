@@ -43,17 +43,22 @@ def preprocess_sleep_data(df):
 
     return df
 
-import os
-
 if __name__ == "__main__":
-    input_file = os.path.join("..", "sleep-health_life-style_raw.csv")  # file input di root project
-    output_file = os.path.join(".", "sleep-health_life-style_preprocessing.csv")  # simpan di dalam folder 'preprocessing'
+    # Ambil path direktori saat ini (preprocessing/)
+    current_dir = os.path.dirname(__file__)
+
+    # File input di folder sejajar dengan preprocessing/
+    input_file = os.path.join(current_dir, '..', 'sleep-health_life-style_raw.csv')
+    output_file = os.path.join(current_dir, 'sleep-health_life-style_preprocessing.csv')
 
     print(f"Input file: {input_file}")
     print(f"Output file: {output_file}")
 
+    # Load dan proses
     df = pd.read_csv(input_file)
     df = preprocess_sleep_data(df)
+
+    # Simpan
     df.to_csv(output_file, index=False)
 
     print("Preprocessing complete.")
