@@ -42,9 +42,16 @@ def preprocess_sleep_data(df):
 
     return df
 
-# if __name__ == "__main__":
-#     df = pd.read_csv('../sleep-health_life-style_raw.csv')
-#     df = preprocess_sleep_data(df)
-#     print(df.head())
+if __name__ == "__main__":
+    input_file = os.path.join("..", "sleep-health_life-style_raw.csv")
+    output_file = os.path.join("..", "sleep-health_life-style_preprocessing.csv")
 
-#     df.to_csv('sleep-health_life-style_preprocessing.csv', index=False)
+    print(f"Input file: {input_file}")
+    print(f"Output file: {output_file}")
+
+    df = pd.read_csv(input_file)
+    df = preprocess_sleep_data(df)
+    df.to_csv(output_file, index=False)
+
+    print("Preprocessing complete.")
+    print(f"Preprocessed data saved to: {output_file}")
