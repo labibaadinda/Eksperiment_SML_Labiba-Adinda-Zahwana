@@ -1,4 +1,4 @@
-name: CI MLflow Pipeline
+name: CI Preprocessing
 
 on:
   push:
