@@ -89,7 +89,7 @@ Proyek ini juga menerapkan **Continuous Integration (CI)** menggunakan **GitHub 
 
 ### 1. Klasifikasi Gangguan Tidur
 
-Model yang diterapkan pada dataset ini menunjukkan bahwa **XGBoost** memberikan hasil akurasi tertinggi, dengan performa yang stabil pada data pelatihan dan pengujian. Hasil evaluasi menunjukkan bahwa XGBoost mampu mencapai **95.48% accuracy**, **95.78% precision**, **95.48% recall**, dan **95.41% F1-score**.
+Model yang diterapkan pada dataset ini menunjukkan bahwa **XGBoost** memberikan hasil akurasi tertinggi, dengan performa yang stabil pada data pelatihan dan pengujian.
 
 * **Random Forest** dan **Gradient Boosting** juga memberikan akurasi tinggi, namun lebih cenderung mengalami **overfitting** pada data pelatihan.
 * **Logistic Regression** memberikan hasil yang lebih sederhana dan interpretatif, cocok untuk kasus-kasus dengan data lebih sederhana.
